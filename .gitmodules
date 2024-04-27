@@ -1,0 +1,3 @@
+[submodule "torchSamples"]
+	path = torchSamples
+	url = git@github.com:vonzo/torchSamples.git
